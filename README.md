@@ -12,7 +12,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shriharsh-agrawal) or [Email](mailto:shriharshagrawal@gmail.com)  
 - ⚡ Fun fact: I enjoy mentoring juniors, experimenting with AI apps, and working on side projects  
 
-
+<br clear="right"/>  
 
 ## 🛠️ Skills  
 
