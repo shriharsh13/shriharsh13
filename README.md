@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects  
 
-- [**Stock Predictions Bot**](https://github.com/shriharsh13/stock-predictions-bot) – AI-powered stock advisory app using **Cloudflare Workers + OpenAI API**, delivering real-time bullish/bearish insights.  
+- [**Stock Predictions Bot**](https://github.com/shriharsh13/stock-tips-app) – AI-powered stock advisory app using **Cloudflare Workers + OpenAI API**, delivering real-time bullish/bearish insights.  
 
 ---
 
